@@ -5,35 +5,35 @@
     weight = 1
 
 [[main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+
+[[main]]
     identifier = "about"
     name = "About me"
     url = "/about"
-    weight = 2
+    weight = 3
 
 [[main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories"
-    weight = 3
+    weight = 11
 
 [[main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags"
-    weight = 4
-
-[[main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://ko-fi.com/nixentric"
-    weight = 5
+    weight = 12
     
 # Social Media Configuration
 
 [[social]]
     identifier = "twitter"
     name = "Twitter"
-    url = "#"
+    url = "https://twitter.com/TsaiPG"
     weight = 1
 
 [[social]]
@@ -45,5 +45,5 @@
 [[social]]
     identifier = "github"
     name = "GitHub"
-    url = "#"
+    url = "https://github.com/itsPG"
     weight = 3
