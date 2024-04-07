@@ -1,15 +1,16 @@
 ---
-title: "Ahoy There!"
+title: "Home"
 draft: false
 ---
-Lowkey is a Clean and Simple Hugo theme inspired by [Adam Wathan's](https://adamwathan.me/) Website. Suitable for use as a personal blog, portofolio, etc. 
 
-This theme uses TailwindCSS, so it's easy to customize.
+## 關於我
 
-If you are interested in using this theme, you can get it on [GitHub](#).
+Software Enginner, Computer Science Enthusiast.
 
-**Example Description:**
+台商十年人礦，資深考古學家兼通靈師
 
-Alex Lowkey is a professor of artificial intelligence at the Unknow AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+日本旅遊, 程式, 動漫, 電玩, 桌遊, 重量訓練, 咖啡, 閱讀, 果粉.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+## 其他
+
+為什麼想找一個可以貼貼廢文的平台能夠這麼難...
