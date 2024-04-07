@@ -5,7 +5,7 @@ isSinglePage = true
 description = "Hello"
 
 # Header Configuration
-avatar = "img/profile-picture.jpg"
+avatar = "img/hutao_avatar_2024.jpeg"
 
 #favicon
 favicon = "icons/favicon.ico"

@@ -16,4 +16,5 @@ hugo.linux
 
 
 # Added by PG
+.DS_Store
 node_modules
