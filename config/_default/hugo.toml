@@ -1,6 +1,6 @@
 baseURL = 'https://pg-blog.pages.dev/'
 copyright = "2006 - {year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
-languageCode = 'en-US'
+languageCode = 'zh-TW'
 defaultContentLanguage = 'en'
 theme = 'enchanted-lowkey'
 title = "PG's Blog"
